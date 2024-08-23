@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Sofines
 - 👀 I’m interested in Data science
 - 🌱 I’m currently enrolled in a BSBA
-- 📫 How to reach me tesnimkhlif@gmail.com
